@@ -8,4 +8,5 @@ Ders 2- Python Giriş 2 : https://colab.research.google.com/drive/1VwQSaDFWZiUa_
 Ders 3- Veri Bilimi : https://colab.research.google.com/drive/1_R82fG1vgAU34djcx0XLtXWoSP3rHy7Z?usp=sharing
 Ders 3'te Kullandığım Veri Seti : https://drive.google.com/file/d/1ro1dqM8aqDZYqMmPO9rUMiOb_jP3h_pb/view?usp=sharing
 
-Ödevlerim: https://colab.research.google.com/drive/1LuOKoMW_RptnpaZIyIULR5qKTKWbPcNu?usp=sharing
+Ödevlerim 1: https://colab.research.google.com/drive/1LuOKoMW_RptnpaZIyIULR5qKTKWbPcNu?usp=sharing
+Ödevlerim 2: https://colab.research.google.com/drive/1tBTjH0iU81Rj0ZO5HDZRq2YD0qYQGKw2?usp=sharing
