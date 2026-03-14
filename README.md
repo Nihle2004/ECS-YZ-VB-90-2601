@@ -12,3 +12,5 @@ Ders 3'te Kullandığım Veri Seti : https://drive.google.com/file/d/1ro1dqM8aqD
 Ödevlerim 2: https://colab.research.google.com/drive/1tBTjH0iU81Rj0ZO5HDZRq2YD0qYQGKw2?usp=sharing
 
 Ders 4- Kaggle Titanik Yarışması : https://www.kaggle.com/code/nihlecokun/titanik-yar-mas/edit
+
+Ders 5- Araç Fiyat Tahmini : https://colab.research.google.com/drive/1bGjuCMg5MGAhgSLbgfagwlLvAOVVEoEf?usp=sharing
