@@ -22,3 +22,5 @@ Ders 7- Toplu Görsel İndirme : https://colab.research.google.com/drive/1IdaPUG
 Ders 8- Online Form : https://colab.research.google.com/drive/1s0DXoobXi2LUhtORFy3O-91bWyVkLRbu?usp=sharing
 
 Ders 9- Pandas İle Veri Çekme : https://colab.research.google.com/drive/1HtjmoGu9xOPJVqY93mQD5c7DuAxbHXOv?usp=sharing
+
+Ders 10- Corona Yarışan Grafikler : https://colab.research.google.com/drive/1Z_ixMsIIeqagpXR3B3S0F9p9qMcg_YYB?usp=sharing
