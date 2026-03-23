@@ -16,3 +16,5 @@ Ders 4- Kaggle Titanik Yarışması : https://www.kaggle.com/code/nihlecokun/tit
 Ders 5- Araç Fiyat Tahmini : https://colab.research.google.com/drive/1bGjuCMg5MGAhgSLbgfagwlLvAOVVEoEf?usp=sharing
 
 Ders 6- Slider : https://colab.research.google.com/drive/1oyfNVsOu47DOm8ffz0t2as5MlwZ8f-w4?usp=sharing
+
+Ders 7- Toplu Görsel İndirme : https://colab.research.google.com/drive/1IdaPUGkJazz-6arUdZoLPrQJmXeVrzIy?usp=sharing
