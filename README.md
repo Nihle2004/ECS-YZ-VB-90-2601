@@ -20,3 +20,5 @@ Ders 6- Slider : https://colab.research.google.com/drive/1oyfNVsOu47DOm8ffz0t2as
 Ders 7- Toplu Görsel İndirme : https://colab.research.google.com/drive/1IdaPUGkJazz-6arUdZoLPrQJmXeVrzIy?usp=sharing
 
 Ders 8- Online Form : https://colab.research.google.com/drive/1s0DXoobXi2LUhtORFy3O-91bWyVkLRbu?usp=sharing
+
+Ders 9- Pandas İle Veri Çekme : https://colab.research.google.com/drive/1HtjmoGu9xOPJVqY93mQD5c7DuAxbHXOv?usp=sharing
