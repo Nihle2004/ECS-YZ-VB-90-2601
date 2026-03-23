@@ -18,3 +18,5 @@ Ders 5- Araç Fiyat Tahmini : https://colab.research.google.com/drive/1bGjuCMg5M
 Ders 6- Slider : https://colab.research.google.com/drive/1oyfNVsOu47DOm8ffz0t2as5MlwZ8f-w4?usp=sharing
 
 Ders 7- Toplu Görsel İndirme : https://colab.research.google.com/drive/1IdaPUGkJazz-6arUdZoLPrQJmXeVrzIy?usp=sharing
+
+Ders 8- Online Form : https://colab.research.google.com/drive/1s0DXoobXi2LUhtORFy3O-91bWyVkLRbu?usp=sharing
