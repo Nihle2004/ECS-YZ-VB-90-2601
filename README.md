@@ -24,3 +24,5 @@ Ders 8- Online Form : https://colab.research.google.com/drive/1s0DXoobXi2LUhtORF
 Ders 9- Pandas İle Veri Çekme : https://colab.research.google.com/drive/1HtjmoGu9xOPJVqY93mQD5c7DuAxbHXOv?usp=sharing
 
 Ders 10- Corona Yarışan Grafikler : https://colab.research.google.com/drive/1Z_ixMsIIeqagpXR3B3S0F9p9qMcg_YYB?usp=sharing
+
+Ders 11- Nüfus Yarışan Grafikler : https://colab.research.google.com/drive/1PIfOuKcawDYAxbJYM4x8Uwz1fwqtzfoi?usp=sharing
