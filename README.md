@@ -27,5 +27,5 @@ Ders 10- Corona Yarışan Grafikler : https://colab.research.google.com/drive/1Z
 
 Ders 11- Nüfus Yarışan Grafikler : https://colab.research.google.com/drive/1PIfOuKcawDYAxbJYM4x8Uwz1fwqtzfoi?usp=sharing
 
-Ders 12- Google AI Studio Uygulaması : https://ai.studio/apps/7d5a4dfb-ad61-4ff0-9abf-12b50c9ccb12
+Ders 12- Google AI Studio Uygulaması : https://ai.studio/apps/7d5a4dfb-ad61-4ff0-9abf-12b50c9ccb12 https://ai.studio/apps/f2308c5c-67b5-4dfe-895c-bb15b3ac0caa?authuser=0
 
