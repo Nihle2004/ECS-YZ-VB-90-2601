@@ -29,6 +29,8 @@ Ders 11- Nüfus Yarışan Grafikler : https://colab.research.google.com/drive/1P
 
 Ders 12- Google AI Studio Uygulaması : https://ai.studio/apps/7d5a4dfb-ad61-4ff0-9abf-12b50c9ccb12 https://ai.studio/apps/f2308c5c-67b5-4dfe-895c-bb15b3ac0caa?authuser=0
 
+Ders 13- Google Trendleri Analizi : https://colab.research.google.com/drive/16UrYU-29qCTMq66o-L6sbIQ6xv7RwAEv?usp=sharing
+
 Ders 14- Finans Verileri API : https://colab.research.google.com/drive/1WTp75S7SCPSPetPoAimYABIUFR23e8Wm?usp=sharing
 
 Ders 15- Weather(Hava Durumu) Verileri API : https://colab.research.google.com/drive/1RZD3C0e1TVgvMGyMbkJKNcyDo5ZIa4sV?usp=sharing
