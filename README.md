@@ -31,3 +31,5 @@ Ders 12- Google AI Studio Uygulaması : https://ai.studio/apps/7d5a4dfb-ad61-4ff
 
 Ders 14- Finans Verileri API : https://colab.research.google.com/drive/1WTp75S7SCPSPetPoAimYABIUFR23e8Wm?usp=sharing
 
+Ders 15- Weather(Hava Durumu) Verileri API : https://colab.research.google.com/drive/1RZD3C0e1TVgvMGyMbkJKNcyDo5ZIa4sV?usp=sharing
+
