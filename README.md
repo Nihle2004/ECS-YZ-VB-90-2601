@@ -35,3 +35,5 @@ Ders 14- Finans Verileri API : https://colab.research.google.com/drive/1WTp75S7S
 
 Ders 15- Weather(Hava Durumu) Verileri API : https://colab.research.google.com/drive/1RZD3C0e1TVgvMGyMbkJKNcyDo5ZIa4sV?usp=sharing
 
+Ders 16- Müşteri Terk(Churn) Analizi : https://colab.research.google.com/drive/14RbTD9Czxd6DVQxFcir53s7Guf1pNvwc?usp=sharing
+
