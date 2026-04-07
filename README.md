@@ -39,3 +39,5 @@ Ders 16- Müşteri Terk(Churn) Analizi : https://colab.research.google.com/drive
 
 Ders 17- Zaman Serisi Analizi : https://colab.research.google.com/drive/1Ue5WHRK2NFLbfxUk-X8OW6S_jdrioSPl?usp=sharing
 
+Ders 18- Detaylı Adidas Veri Analizi : https://colab.research.google.com/drive/1eYBDaotyGr6djRj_RoWmCVknVVE3grJV?usp=sharing
+
