@@ -37,3 +37,5 @@ Ders 15- Weather(Hava Durumu) Verileri API : https://colab.research.google.com/d
 
 Ders 16- Müşteri Terk(Churn) Analizi : https://colab.research.google.com/drive/14RbTD9Czxd6DVQxFcir53s7Guf1pNvwc?usp=sharing
 
+Ders 17- Zaman Serisi Analizi : https://colab.research.google.com/drive/1Ue5WHRK2NFLbfxUk-X8OW6S_jdrioSPl?usp=sharing
+
