@@ -41,3 +41,5 @@ Ders 17- Zaman Serisi Analizi : https://colab.research.google.com/drive/1Ue5WHRK
 
 Ders 18- Detaylı Adidas Veri Analizi : https://colab.research.google.com/drive/1eYBDaotyGr6djRj_RoWmCVknVVE3grJV?usp=sharing
 
+Ders 19- Öneri Sistemleri(Filmler için) : https://colab.research.google.com/drive/1RixxlR-bHFDjkdKBB06u4_9NxfKSmYH0?usp=sharing
+
