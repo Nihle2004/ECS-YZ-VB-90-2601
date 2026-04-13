@@ -43,3 +43,5 @@ Ders 18- Detaylı Adidas Veri Analizi : https://colab.research.google.com/drive/
 
 Ders 19- Öneri Sistemleri(Filmler için) : https://colab.research.google.com/drive/1RixxlR-bHFDjkdKBB06u4_9NxfKSmYH0?usp=sharing
 
+Ders 20- OpenCV ile Görüntü İşleme : https://colab.research.google.com/drive/1XS3-_Z2--eVAl2lujPu4WwfesNkLNxY6?usp=sharing
+
