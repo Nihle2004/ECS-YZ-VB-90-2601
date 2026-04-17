@@ -45,3 +45,5 @@ Ders 19- Öneri Sistemleri(Filmler için) : https://colab.research.google.com/dr
 
 Ders 20- OpenCV ile Görüntü İşleme : https://colab.research.google.com/drive/1XS3-_Z2--eVAl2lujPu4WwfesNkLNxY6?usp=sharing
 
+Ders 21- Hugging Face'te Foto Filter Uzayı : https://huggingface.co/spaces/Nhl2004/foto-filter
+
