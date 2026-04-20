@@ -47,3 +47,5 @@ Ders 20- OpenCV ile Görüntü İşleme : https://colab.research.google.com/driv
 
 Ders 21- Hugging Face'te Foto Filter Uzayı : https://huggingface.co/spaces/Nhl2004/foto-filter
 
+Ders 22- MNIST Uygulaması : https://colab.research.google.com/drive/1NQeYLGHE4HoAvTiV1bO8GIxeyKwUZ3jU?usp=sharing
+
