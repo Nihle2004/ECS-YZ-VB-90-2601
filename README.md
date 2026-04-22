@@ -49,3 +49,5 @@ Ders 21- Hugging Face'te Foto Filter Uzayı : https://huggingface.co/spaces/Nhl2
 
 Ders 22- MNIST Uygulaması : https://colab.research.google.com/drive/1NQeYLGHE4HoAvTiV1bO8GIxeyKwUZ3jU?usp=sharing
 
+Ders 23- Lineer Regresyon ve Keras ANN Karşılaştırması : https://colab.research.google.com/drive/1sJgI44DEoi0eRQifr3FuhGpgLHumq7bb?usp=sharing
+
